@@ -2390,3 +2390,4 @@ heads-fab.spotify.com
 heads-fac.spotify.com 
 mp3ad.scdn.co 
 prod.spotify-heads.map.fastlylb.net 
+wg.spotify.com 
