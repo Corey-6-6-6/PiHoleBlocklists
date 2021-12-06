@@ -2394,3 +2394,5 @@ wg.spotify.com
 
 
 audio4-fa.scdn.co
+video-akpcw-cdn-spotify-com.akamaized.net
+i.scdn.co
